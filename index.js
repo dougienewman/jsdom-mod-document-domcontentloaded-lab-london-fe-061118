@@ -2,5 +2,8 @@
 
 
 
-document.getElementById("hidden-div");
 
+
+
+
+document.getElementById("demo").innerHTML = "Paragraph changed!";
