@@ -1,3 +1,3 @@
 /* code goes here */
 
-document.getElementById("demo");
+document.getElementById("hidden-div");
