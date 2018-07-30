@@ -1,9 +1,3 @@
 /* code goes here */
 
-
-
-
-
-
-
-document.getElementById("demo").innerHTML = "Paragraph changed!";
+document.getElementById("hidden-div").innerHTML = "301";
